@@ -28,6 +28,7 @@ pyxyzc@github:~$ ./whoami
 name     pengyao
 focus    LLM inference · KV cache · heterogeneous acceleration
 tools    Python / C++ / CUDA / Lua
+```
 
 ## `>_ stack`
 
