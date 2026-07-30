@@ -26,7 +26,7 @@
 pyxyzc@github:~$ ./whoami
 
 name     pengyao
-focus    LLM inference · KV cache · heterogeneous acceleration
+focus    LLM Inference · KV Cache · Heterogeneous Acceleration
 tools    Python / C++ / CUDA / Lua
 ```
 
