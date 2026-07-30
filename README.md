@@ -28,11 +28,6 @@ pyxyzc@github:~$ ./whoami
 name     pengyao
 focus    LLM inference · KV cache · heterogeneous acceleration
 tools    Python / C++ / CUDA / Lua
-editor   Neovim + tmux
-```
-
-I like following a bottleneck all the way down—from a model-serving trace to
-memory movement and kernels—then packaging the useful parts into small tools.
 
 ## `>_ stack`
 
@@ -53,7 +48,6 @@ memory movement and kernels—then packaging the useful parts into small tools.
 | :--- | :--- | :---: |
 | [`mochitmux.nvim`](https://github.com/pyxyzc/mochitmux.nvim) | Send coding agents into fresh tmux windows from Neovim | `Lua` |
 | [`mochidap.nvim`](https://github.com/pyxyzc/mochidap.nvim) | Neovim DAP utilities for a smoother debugging workflow | `Lua` |
-| [`leetGPU`](https://github.com/pyxyzc/leetGPU) | CUDA challenge solutions and kernel experiments | `CUDA` |
 
 ## `>_ telemetry`
 
