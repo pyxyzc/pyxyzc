@@ -60,19 +60,3 @@ tools    Python / C++ / CUDA / Lua
     <img width="41%" src="https://raw.githubusercontent.com/pyxyzc/pyxyzc/output/top-langs.svg" alt="pyxyzc most-used languages" />
   </a>
 </div>
-
-<div align="center">
-  <a href="https://github.com/Platane/snk">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pyxyzc/pyxyzc/output/contribution-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pyxyzc/pyxyzc/output/contribution-snake.svg" />
-      <img src="https://raw.githubusercontent.com/pyxyzc/pyxyzc/output/contribution-snake.svg" alt="Contribution graph animated as a snake game" />
-    </picture>
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <code>// keep the cache warm and the terminal green.</code>
-</div>
